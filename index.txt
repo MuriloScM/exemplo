@@ -1,2 +1,15 @@
+[19:32] Alexandre Carlos de Jesus
 <!Doctype html>
-<!-- Doctypr é um DTD -->
+<!-- Doctype Ã© um DTD -->
+<html>
+<head>
+<meta charset="UTF-8">
+<title>EXEMPLO</title>
+</head>
+<body>
+<h1>Bem vindos!</h1>
+<h2>1TDSS-2021</h2>
+<h3>LINS</h3>
+</body>
+</html>
+
